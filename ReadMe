@@ -1,0 +1,5 @@
+
+from pygame import *
+mixer.init()
+font.init()
+from random import *
